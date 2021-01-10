@@ -39,6 +39,8 @@ def alan_kay_is_known_for
      }
 end
 
+programmer_hash{grace_hopper}
+
 def dennis_ritchies_language
 	programmer_hash = 
  		{
