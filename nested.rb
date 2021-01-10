@@ -85,7 +85,6 @@ def adding_matz
           :languages => ["C"]
         }
      }
-programmer_hash[:key] => "yukihiro_matsumoto"
 
 end
 
