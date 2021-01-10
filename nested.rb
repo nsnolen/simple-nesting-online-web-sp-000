@@ -38,7 +38,9 @@ def alan_kay_is_known_for
           :languages => ["C"]
         }
      }
-		 programmer_hash[:grace_hopper]
+
+programmer_hash[:grace_hopper] = :hash
+programmer_hash[:hash]
 end
 
 
