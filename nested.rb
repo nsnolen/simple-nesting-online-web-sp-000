@@ -39,7 +39,7 @@ def alan_kay_is_known_for
         }
      }
 
-:hash => hash.delete(:grace_hopper)
+programmer_hash[:hash] => hash.delete(:grace_hopper)
 programmer_hash[:hash]
 end
 
